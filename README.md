@@ -1,7 +1,7 @@
 # js-encrypt-decrypt
 
 # Installation
-Dillinger requires [Node.js](https://nodejs.org/) v8+ to run.
+
 ```sh
 npm install js-encrypt-decrypt --save
 ```
