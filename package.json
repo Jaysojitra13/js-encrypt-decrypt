@@ -12,6 +12,7 @@
     "url": "git+https://github.com/Jaysojitra13/js-encrypt-decrypt.git"
   },
   "keywords": [
+    "crypto",
     "encrypt",
     "decrypt"
   ],
