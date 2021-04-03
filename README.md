@@ -46,7 +46,7 @@ console.log("This is the finalEncryptedString ==> ", finalEncryptString);
 ## Step 4: Call the the `myDecryptWithIv` fuction to get the decrypted string.
 ```sh
 const finalDecryptString = _encryptPackage.myDecryptWithIv(finalEncryptString, algo, encryptionKey, encryptionIV, encryptionKeyType, encTextFormat);
-console.log("This is the finalDecryptString ==> ", finalEncryptString);
+console.log("This is the finalDecryptString ==> ", finalDecryptString);
 ```
 ## License
 MIT
